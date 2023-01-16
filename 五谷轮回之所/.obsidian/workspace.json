@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "性别相关/README.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性别相关/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "性别相关/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "性别相关/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -175,8 +175,8 @@
   },
   "active": "16d71becca661d89",
   "lastOpenFiles": [
-    "README.md",
     "性别相关/README.md",
+    "README.md",
     "公众号合集：凡声/也谈乡愿：那只装不进冰箱的大象.md",
     "公众号合集：凡声/声浪｜因为老师的一段话，我去面试了外卖骑手.md",
     "公众号合集：凡声/声浪｜让婚姻的归婚姻，爱情的归爱情.md",
