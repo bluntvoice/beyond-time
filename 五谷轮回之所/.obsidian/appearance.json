@@ -5,5 +5,5 @@
   "cssTheme": "Wasp",
   "textFontFamily": "思源宋体 CN",
   "interfaceFontFamily": "思源宋体 CN",
-  "nativeMenus": false
+  "nativeMenus": true
 }

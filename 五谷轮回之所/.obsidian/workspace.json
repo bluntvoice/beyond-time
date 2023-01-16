@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0d4a1308db527fdf",
+        "id": "e658eb02e6cac5a9",
         "type": "tabs",
         "children": [
           {
-            "id": "6503633d52a80a83",
+            "id": "16b80b8bc13124b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "疫情相关/合订本、黑历史与留档/张文宏/【合订本】那些辱骂诅咒张文宏的人，现在感觉到后悔了吗？ - 知乎.md",
+                "file": "公众号：凡声合集/也谈乡愿：那只装不进冰箱的大象.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "655a083bb276bdbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "疫情相关/合订本、黑历史与留档/【汇总】外国对我国疫情防控政策干预情况.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2490a1b6e0033a7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "疫情相关/历史事件记录/【汇总】从侧面看放开后的影响.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b724ae028701c4cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "性别相关/性别/案例/【案例】江西九江银行彩礼贷事件.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性别相关/性别/案例/【案例】江西九江银行彩礼贷事件.md",
+                "file": "公众号：凡声合集/也谈乡愿：那只装不进冰箱的大象.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "性别相关/性别/案例/【案例】江西九江银行彩礼贷事件.md",
+                "file": "公众号：凡声合集/也谈乡愿：那只装不进冰箱的大象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "性别相关/性别/案例/【案例】江西九江银行彩礼贷事件.md"
+                "file": "公众号：凡声合集/也谈乡愿：那只装不进冰箱的大象.md"
               }
             }
           }
@@ -193,20 +156,21 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "b724ae028701c4cc",
+  "active": "16b80b8bc13124b5",
   "lastOpenFiles": [
-    "性别相关/性别/案例/【案例】1888万彩礼事件原文及辟谣存档.md",
+    "公众号：凡声合集/声浪｜因为老师的一段话，我去面试了外卖骑手.md",
+    "公众号：凡声合集/声浪｜让婚姻的归婚姻，爱情的归爱情.md",
+    "公众号：凡声合集/见，由未见.md",
+    "公众号：凡声合集/诡计多端的穷男人？聊聊交往期间的财产返还问题.md",
+    "公众号：凡声合集/耳「清」目「明」.md",
+    "公众号：凡声合集/也谈乡愿：那只装不进冰箱的大象.md",
+    "公众号：凡声合集/公众号图片（索引用）/391afb8475a7d03069fa4f7422565cb4.jpg",
     "性别相关/性别/案例/【案例】江西九江银行彩礼贷事件.md",
-    "性别相关/婚育/结婚/【例子】江西九江银行彩礼贷事件.md",
     "疫情相关/历史事件记录/【汇总】从侧面看放开后的影响.md",
-    "疫情相关/合订本、黑历史与留档/张文宏/【黑历史】张文宏谈共存.md",
-    "疫情相关/合订本、黑历史与留档/张文宏/【黑历史】张文宏下基层与辉瑞paxlovid.md",
-    "疫情相关/合订本、黑历史与留档/张文宏/【黑历史】张文宏谈德尔塔.md",
-    "疫情相关/合订本、黑历史与留档/张文宏/【合订本】张文宏言行02.md",
-    "疫情相关/合订本、黑历史与留档/张文宏/【合订本】张文宏言行01.md",
-    "疫情相关/合订本、黑历史与留档/张文宏/【合订本】张文宏不是说大多无症状吗？ - 知乎.md"
+    "疫情相关/合订本、黑历史与留档/【汇总】外国对我国疫情防控政策干预情况.md"
   ]
 }
