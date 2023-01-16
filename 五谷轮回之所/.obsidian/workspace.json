@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公众号合集：凡声/声浪｜因为老师的一段话，我去面试了外卖骑手.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公众号合集：凡声/声浪｜因为老师的一段话，我去面试了外卖骑手.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公众号合集：凡声/声浪｜因为老师的一段话，我去面试了外卖骑手.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公众号合集：凡声/声浪｜因为老师的一段话，我去面试了外卖骑手.md"
+                "file": "README.md"
               }
             }
           }
@@ -175,15 +175,15 @@
   },
   "active": "16d71becca661d89",
   "lastOpenFiles": [
-    "个人笔记/Markdown样式参考.md",
+    "性别相关/README.md",
+    "README.md",
     "公众号合集：凡声/声浪｜因为老师的一段话，我去面试了外卖骑手.md",
+    "个人笔记/Markdown样式参考.md",
     "公众号合集：凡声/彩礼：“态度”问题背后有哪些没说出口的话.md",
     "公众号合集：凡声/序：聊「非婚同居」，就不能只聊「非婚同居」.md",
     "公众号合集：凡声/也谈乡愿：那只装不进冰箱的大象.md",
     "公众号合集：凡声/怎样确定你的女朋友（男朋友）是适合的结婚对象？.md",
     "公众号合集：凡声/见，由未见.md",
-    "公众号合集：凡声/声浪｜让婚姻的归婚姻，爱情的归爱情.md",
-    "公众号合集：凡声/诡计多端的穷男人？聊聊交往期间的财产返还问题.md",
-    "公众号合集：凡声/耳「清」目「明」.md"
+    "公众号合集：凡声/声浪｜让婚姻的归婚姻，爱情的归爱情.md"
   ]
 }
