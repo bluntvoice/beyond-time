@@ -13,6 +13,7 @@
 欢迎在issue区反驳、评论、建议，期待听到更多的声音，也期待你能加入我们，为守住底线而战。
 
 联系方式：[微博 六朝声1](https://weibo.com/u/7774067855)
+个人公众号为凡声，目前主要写一些婚姻法方向的文章：[![qrcode1673893952732.jpg](https://raw.githubusercontent.com/bluntvoice/mypic/main/qrcode1673893952732.jpg)](https://raw.githubusercontent.com/bluntvoice/mypic/main/qrcode1673893952732.jpg)
 
 > 注：GitHub具备足够的可靠性，因此无需担心其中的内容会被平台方删除；
 > 同时，也建议每一位参与者通过obsidian（笔记工具）与GitHub的同步功能实现本地化留存。具体教程可参考[如何使用 github 来保存、同步 JH 文档 - 知乎](https://zhuanlan.zhihu.com/p/380200295)
