@@ -11,8 +11,12 @@
             "id": "24fc0b2a76355fb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "性别相关/婚育/【存档】2022年春晚性别视角观察.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "性别相关/婚育/【存档】2022年春晚性别视角观察.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "性别相关/婚育/【存档】2022年春晚性别视角观察.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "性别相关/婚育/【存档】2022年春晚性别视角观察.md"
+              }
             }
           }
         ],
