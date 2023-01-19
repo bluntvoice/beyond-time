@@ -13,6 +13,7 @@
 欢迎在[讨论区](https://github.com/bluntvoice/beyond-time/discussions)反驳、评论、建议，期待听到更多的声音，也期待你能加入我们，为守住底线而战。
 
 联系方式：[微博 六朝声1](https://weibo.com/u/7774067855)
+
 个人公众号为凡声，目前主要写一些婚姻法方向的文章：[![qrcode1673893952732.jpg](https://raw.githubusercontent.com/bluntvoice/mypic/main/qrcode1673893952732.jpg)](https://raw.githubusercontent.com/bluntvoice/mypic/main/qrcode1673893952732.jpg)
 
 如果对你有帮助，欢迎通过爱发电鼓励我继续坚持下去。
