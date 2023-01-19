@@ -4,7 +4,8 @@
 
 欢迎投稿，可通过微博私信[六朝声1](https://weibo.com/u/7774067855)投稿。
 
-个人公众号为凡声，目前主要写一些婚姻法方向的文章：[![qrcode1673893952732.jpg](https://raw.githubusercontent.com/bluntvoice/mypic/main/qrcode1673893952732.jpg)](https://raw.githubusercontent.com/bluntvoice/mypic/main/qrcode1673893952732.jpg)
+个人公众号为凡声，目前主要写一些婚姻法方向的文章：
+[![qrcode1673893952732.jpg](https://raw.githubusercontent.com/bluntvoice/mypic/main/qrcode1673893952732.jpg)](https://raw.githubusercontent.com/bluntvoice/mypic/main/qrcode1673893952732.jpg)
 
 如果对你有帮助，欢迎通过爱发电鼓励我继续坚持下去。
 ![](https://raw.githubusercontent.com/bluntvoice/mypic/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230119002956.jpg)
