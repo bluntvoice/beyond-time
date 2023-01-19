@@ -1,1 +1,11 @@
-{}
+{
+  "cmenu-plugin:codeblock": [],
+  "cmenu-plugin:editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    }
+  ]
+}
