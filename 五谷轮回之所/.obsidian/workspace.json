@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6056a631754fe4ad",
+        "id": "4903b31f0ebaff62",
         "type": "tabs",
         "children": [
           {
-            "id": "b1a0899d7bb575e8",
+            "id": "3019498e48f873ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "性别相关/性别/黑历史打脸/【合订本】从极端女权的语言风格看女拳特征.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a76e936919316eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "性别相关/性别/案例/【案例】极端女权用语特征之“生物爹”“供精吊”.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8701c13e610a26b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "性别相关/性别/案例/【案例】知名诬告案件汇总01版.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "727fe58eb268f8be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "性别相关/性别/案例/【案例】知名诬告案件汇总02版.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "214db98a05a2550c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "性别相关/性别/案例/【案例】知名诬告案件汇总03版.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性别相关/性别/案例/【案例】知名诬告案件汇总03版.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "性别相关/性别/案例/【案例】知名诬告案件汇总03版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "性别相关/性别/案例/【案例】知名诬告案件汇总03版.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -209,17 +152,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "214db98a05a2550c",
+  "active": "f1844c7c0f650a4b",
   "lastOpenFiles": [
+    "个人笔记/测试与熟悉.md",
+    "个人笔记/Markdown样式参考.md",
+    "我是胖子，我就活该被医生讽刺不该怀孕吗？.md",
+    "性别相关/性别/黑历史打脸/【合订本】从极端女权的语言风格看女拳特征.md",
     "性别相关/性别/案例/【案例】知名诬告案件汇总02版.md",
     "性别相关/性别/案例/【案例】知名诬告案件汇总01版.md",
     "性别相关/性别/案例/【案例】知名诬告案件汇总03版.md",
     "性别相关/性别/案例/【案例】整容究竟是取悦自己还是男权社会下的容貌焦虑压迫？（20230118）.md",
     "性别相关/模板/【模板】.md",
-    "性别相关/性别/案例/【案例】极端女权用语特征之“生物爹”“供精吊”.md",
-    "性别相关/性别/黑历史打脸/【合订本】从极端女权的语言风格看女拳特征.md",
-    "性别相关/性别/黑历史打脸/【合订本】女拳言论合订本.md",
-    "性别相关/性别/黑历史打脸/【汇总】打拳带来的戾气.md",
-    "文艺/【存档】当流浪地球2使用吴孟达cg后.md"
+    "性别相关/性别/案例/【案例】极端女权用语特征之“生物爹”“供精吊”.md"
   ]
 }
