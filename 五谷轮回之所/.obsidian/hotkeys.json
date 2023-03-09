@@ -15,5 +15,23 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-export-image:export-to-image-zh": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-export-image:copy-as-image-zh": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }
